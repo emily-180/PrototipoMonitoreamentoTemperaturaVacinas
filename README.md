@@ -1,4 +1,4 @@
-# sensorTemperatura
+# Prototipo para Monitoreamento de Temperatura das Vacinas
 
 Este é um projeto desenvolvido para a apresentação de trabalho na Jornada Científica do IFSULDEMINAS (JOSIF).
 
