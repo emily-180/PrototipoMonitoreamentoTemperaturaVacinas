@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido para a apresentação de trabalho na Jornada Científica do IFSULDEMINAS (JOSIF).
 
-O trabalho completo pode ser encontrado [aqui]([https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/221/219](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/873/729)).
+O trabalho completo pode ser encontrado [aqui](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/873/729).
 
 ## Descrição
 
